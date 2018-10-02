@@ -1,2 +1,0 @@
-# pulkit-jain
-hacker,coder
